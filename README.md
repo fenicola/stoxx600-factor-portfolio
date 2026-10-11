@@ -72,8 +72,7 @@ The in-sample weights are applied to out-of-sample returns. Both portfolios are 
 ## Requirements
 
 ```bash
-pip install numpy pandas matplotlib seaborn yfinance fmfinance quantstats \
-            statsmodels scipy pypfopt openpyxl
+pip install -r requirements.txt
 ```
 
 Python 3.9+ recommended. Run in Jupyter Notebook or JupyterLab.
