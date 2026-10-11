@@ -67,6 +67,9 @@ The in-sample weights are applied to out-of-sample returns. Both portfolios are 
 
 **Metrics reported:** Cumulative return, CAGR, Sharpe ratio, Sortino ratio, Max Drawdown, Volatility.
 
+![Out-of-sample cumulative returns (Jan 2023 – Dec 2025): Low Beta/Low Momentum vs High Beta/High Momentum tangency portfolios vs STOXX 600 ETF.](images/oos_cumulative_returns.png)
+*Out-of-sample cumulative returns (Jan 2023 – Dec 2025): Low Beta/Low Momentum vs High Beta/High Momentum tangency portfolios vs STOXX 600 ETF.*
+
 ---
 
 ## Requirements
